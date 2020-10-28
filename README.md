@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/davidbt07/lab3udea.svg?branch=main)](https://travis-ci.com/davidbt07/lab3udea)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
